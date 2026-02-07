@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" group-title="央视频道",CCTV1综合
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gqonline.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" group-title="央视频道",CCTV2财经
+http://112.50.243.8/PLTV/88888888/224/32212259231.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" group-title="央视频道",CCTV3综艺
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title="央视频道",CCTV4国际亚洲
+http://112.50.243.8/PLTV/88888888/224/32212258021.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title="央视频道",CCTV4国际欧洲
+https://cctvtxy-h5.ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title="央视频道",CCTV4国际美洲
+https://cctvtxy-h5.ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" group-title="央视频道",CCTV6电影高清
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" group-title="央视频道",CCTV7国防军事
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" group-title="央视频道",CCTV8电视剧
+https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" group-title="央视频道",CCTV9记录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" group-title="央视频道",CCTV10蓝光
+http://ott.fj.chinamobile.com/PLTV/88888888/224/32212258141.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" group-title="央视频道",CCTV10科教
+https://cctvali-h5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn" group-title="央视频道",CCTV11戏曲
+http://ott.fj.chinamobile.com/PLTV/88888888/224/32212258151.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" group-title="央视频道",CCTV12科教
+http://112.50.243.8/PLTV/88888888/224/32212258161.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" group-title="央视频道",CCTV13新闻
+https://liveali.ifeng.com/live/CCTV.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" group-title="央视频道",CCTV14少儿
+https://cctvtxy-h5.ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" group-title="央视频道",CCTV15音乐
+https://cctvtxy-h5.ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" group-title="央视频道",CCTV17农业农村
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/32212263181.m3u8
